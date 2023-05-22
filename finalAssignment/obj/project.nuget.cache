@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "an77Fs2WwnXxrJ83hGBiyZaf+LqYXfTey7PaLQN98PX3JTDjZ/vfh5rKXCPQja9PNNnfq5+U9ojDbO64TvWOcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\melio\\OneDrive - University of Canberra (student)\\UC - IT\\Sem 1 - 2023\\7197 - Game Programming Technique\\final_assignment\\finalAssignment\\finalAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\melio\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\melio\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\melio\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\melio\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\melio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\melio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
